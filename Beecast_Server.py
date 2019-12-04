@@ -223,7 +223,7 @@ def make_request_handler(input_dict):
                         groupRequest = self.group("1")
                         if('lastIndex' in post_data):
                             if(int(groupRequest) < post_data['lastIndex']):
-                                print "Updating Group Last Index" + str(post_data['lastIndex'])
+                                print "Updating Group Last Index " + str(post_data['lastIndex'])
                                 filename = GROUP_FOLDER+"/1.txt"
                                 with open(filename, 'wb') as group_file:
                                     group_file.write(str(post_data['lastIndex']))

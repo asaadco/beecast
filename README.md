@@ -1,5 +1,5 @@
 # BeeCast
-A Collaborative Video Streaming System
+A Collaborative Video Streaming System that enables users with poor connection to collaborate to watch a video in high definition while eliminating redundant segment requests that may already exist within the Local Area Network.
 
 ## Getting Started
 

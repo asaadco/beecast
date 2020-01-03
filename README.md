@@ -25,10 +25,6 @@ python install setup.py
 * **Asaad AlGhamdi** - Chunk Assignment Algorithm - [Asaadco](https://github.com/asaadco)
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
-
 ## Acknowledgments
 
-* Dr. Mohammed Felemban for supervising me while 
+* This work wouldn't have been possible without the guidance and supervision of Dr. Muhammad Felemban(@KFUPM)
